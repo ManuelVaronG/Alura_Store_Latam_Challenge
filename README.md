@@ -2,7 +2,7 @@
 
 Análisis de venta de tiendas.
 
-EL propósito del presente es determinar factores que permitan saber que tienda tiene el mejor desempeño y cual es la que tiene peor desempeño, con la finalidad de vender la tienda que menos factura
+EL propósito del presente es determinar factores que permitan saber que tienda tiene el mejor  y cual es la que tiene peor desempeño, con la finalidad de vender la tienda que menos factura
 Este esta estructurado por un análisis de facturación por tienda, ventas por categoría, calificación promedio de las tiendas, productos más y menos vendidos y por último el envío promedio por tienda.
 
 **Ejemplo de resultados obtenidos**
