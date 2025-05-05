@@ -6,6 +6,7 @@ EL propósito del presente es determinar factores que permitan saber que tienda 
 Este esta estructurado por un análisis de facturación por tienda, ventas por categoría, calificación promedio de las tiendas, productos más y menos vendidos y por último el envío promedio por tienda.
 
 **Ejemplo de resultados obtenidos**
+
 Dentro del **Análisis de facturación** se consiguió el siguiente grafico:
 ![image](https://github.com/user-attachments/assets/dc3ceb22-00a7-4c8c-86d7-82abc541ad93)
 
@@ -22,6 +23,7 @@ Y en la sección de **costo promedio de envío** se obtuvo lo siguiente:
 Teniendo la tienda 1 con el mayor costo de envío promedio entre todas las tiendas y la tienda 4 con el menor costo de envío promedio.
 
 **INSTRUCCIÓN DE EJECUCIÓN**
+
 1. Lo primordial es ejecutar las librerias y cargar los datos de cada tienda, correspondiente a la primera sección de código.
 2. Se recomienda ejecutar el código por orden de sección para un correcto desarrollo.
 3. Al final se encontrará el informe final para la conclusión final de este.
