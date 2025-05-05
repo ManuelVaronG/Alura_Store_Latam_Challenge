@@ -5,4 +5,5 @@ Este esta estructurado por un análisis de facturación por tienda, ventas por c
 
 Dentro del **Análisis de facturación** se consiguió el siguiente grafico:
 ![image](https://github.com/user-attachments/assets/dc3ceb22-00a7-4c8c-86d7-82abc541ad93)
+
 Indicando que la tienda 1 fue el que más facturo en comparación a las demás tienda, mientras que la 4 obtuvo la peor facturación
