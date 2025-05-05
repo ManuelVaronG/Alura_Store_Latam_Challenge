@@ -7,3 +7,8 @@ Dentro del **Análisis de facturación** se consiguió el siguiente grafico:
 ![image](https://github.com/user-attachments/assets/dc3ceb22-00a7-4c8c-86d7-82abc541ad93)
 
 Indicando que la tienda 1 fue el que más facturo en comparación a las demás tienda, mientras que la 4 obtuvo la peor facturación
+
+Uno de los resultados obtenidos en **Ventas por categoría** esta a continuación:
+![image](https://github.com/user-attachments/assets/a8628f04-0799-4b94-90c4-07f8063b1b65)
+
+Este brinda la información que en la tienda 1, la categoria de moda son los muebles, 
